@@ -31,3 +31,7 @@ Ejemplos pruebas de uso:
 {
   "predictions": "65648,49624, 17, 467,52, 0, 235, 61"
 }
+
+
+Link a Video Explicativo:
+https://drive.google.com/file/d/1kbslI8TtuqWkacqpPDN4MM9bTMQ-iVzM/view?usp=drive_link

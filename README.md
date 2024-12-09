@@ -16,18 +16,18 @@ https://23itieibaf.execute-api.us-east-1.amazonaws.com/developer/predict-cliente
 
 Ejemplos pruebas de uso: 
 
-High:
+- High:
 {
   "predictions": "77660,20554, 114, 933,40, 1, 23,52"
 }
 
 
-Low:
+- Low:
 {
   "predictions": "46015,1407, 10, 409,76, 0, 326, 12"
 }
 
-Medium:
+- Medium:
 {
   "predictions": "65648,49624, 17, 467,52, 0, 235, 61"
 }
